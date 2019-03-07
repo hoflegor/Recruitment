@@ -53,7 +53,7 @@ return $obj->getType();
 
 5. Jak można zastosować wyjątki (konstrukcja try cache) by zapobiec błędne wywołania funkcji checkObject (PHP 7 TypeError)
  
- ```Odpowiedzi na pytania w pliku <a href="answers.md">answers.md</a>``
+ ```Odpowiedzi na pytania w pliku <a href="https://github.com/hoflegor/Recruitment/blob/master/PHP/answers.md">answers.md</a>``
  
 ##
  
