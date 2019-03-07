@@ -1,7 +1,7 @@
 # Zagadnienia z PHP:
 
 * ## Zadania rozwiązane w ```index.php``` oraz ``arrays.php``.
-* ##Odpowiedzi na pytania w ``` answers.md```. 
+* ## Odpowiedzi na pytania w ``` answers.md```. 
 
 
 #### Tworzenie klas i obiektów
