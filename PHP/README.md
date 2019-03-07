@@ -1,7 +1,7 @@
 # Zagadnienia z PHP:
 
 * ## Zadania rozwiązane w ```index.php``` oraz ``arrays.php``.
-* ## Odpowiedzi na pytania w <a href="https://github.com/hoflegor/Recruitment/blob/master/PHP/answers.md">```answers.md```</a>. 
+* ## Odpowiedzi na pytania w pliku <a href="https://github.com/hoflegor/Recruitment/blob/master/PHP/answers.md">```answers.md```</a>. 
 
 
 #### Tworzenie klas i obiektów
